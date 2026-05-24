@@ -1,6 +1,6 @@
 {
 	"$schema": "./node_modules/oxfmt/configuration_schema.json",
-	"ignorePatterns": ["backend/**", "docs/**", "deploy/**"],
+	"ignorePatterns": ["backend/**", "docs/**", "deploy/**", "*.md"],
 	"printWidth": 80,
 	"useTabs": true,
 	"tabWidth": 4
